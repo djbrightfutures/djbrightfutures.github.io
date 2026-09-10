@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djbrightfutures.github.io/sitemap.xml
